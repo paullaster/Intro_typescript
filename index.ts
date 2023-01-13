@@ -1,2 +1,2 @@
-let num = 60
+let max = 60
 console.log(num)
