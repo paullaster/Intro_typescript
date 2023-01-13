@@ -11,3 +11,4 @@ let t1: [id:number, name:string] = [1, "ochieng"];
 const enum Sizes {Small, Medium, Large, XLarge};
 
 let s1: Sizes = Sizes.Small;
+console.log (s1);
