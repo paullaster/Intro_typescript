@@ -8,7 +8,7 @@ numArray.forEach((el) => {
 let t1: [id:number, name:string] = [1, "ochieng"];
 
 //enums
-const enum Sizes {Small, Medium, Large, XLarge};
+const enum Sizes {Small=7, Medium, Large, XLarge};
 
 let s1: Sizes = Sizes.Small;
 console.log (s1);
