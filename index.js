@@ -1,2 +1,3 @@
-var num = 60;
-console.log(num);
+var max = 60;
+if (max > 40)
+    console.log(max);
