@@ -1,2 +1,3 @@
 let max = 60
-console.log(num)
+if (max>40)
+    console.log(max)
