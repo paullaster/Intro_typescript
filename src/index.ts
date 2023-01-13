@@ -6,3 +6,6 @@ numArray.forEach((el) => {
 
 //tuples:
 let t1: [id:number, name:string] = [1, "ochieng"];
+
+//enums
+const enum Sizes {Small, Medium, Large, XLarge};
