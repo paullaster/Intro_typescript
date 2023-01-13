@@ -1,4 +1,5 @@
 "use strict";
-let max = 60;
-if (max > 40)
-    console.log(max);
+let numArray = [1, 2];
+numArray.forEach((el) => {
+    console.log(el);
+});
