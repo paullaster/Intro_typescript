@@ -7,5 +7,5 @@ numArray.forEach((el) => {
 //tuples:
 let t1 = [1, "ochieng"];
 ;
-let s1 = 7 /* Sizes.Small */;
+let s1 = 8 /* Sizes.Medium */;
 console.log(s1);
